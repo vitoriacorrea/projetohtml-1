@@ -1,0 +1,70 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+  <head>
+  <meta charset="utf-8">
+  <title>Travel Agency Page</title>
+  <meta name="description" content="Find the best deals for your next trip. Cheap prices on flights, packages, accommodation and much more.">
+  </head>
+
+<body>
+
+
+<h1>Discover your dream destinations with TravelWell!</h1>
+
+<p>Discover your dream destinations with TravelWell! From paradisiacal beaches to the most incredible cultural itineraries, we offer unique experiences and personalized packages to transform your trip into an unforgettable memory. Travel in comfort, savings and total safety. The world awaits you!</p>
+
+
+<figure>
+
+<a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCap03mVLwYMc-cnOnKKICWl4ZQn23S9NpU2kcY6_JELOLRW1G9C8kv_vAap4e5GBBjz8&usqp=CAU" alt="Travel papers along with a cup of coffee"></a>
+<figcaption>Travel papers along with a cup of coffee</figcaption>
+
+</figure>
+
+<h2>Packages</h2>
+
+<p>We offer complete packages for all travel styles. From relaxing on tropical beaches to adventures in big cities. Choose from national and international itineraries, family trips, couples trips or group trips, all with special prices and guaranteed support.</p>
+
+
+<ul>
+
+<li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+<li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+
+</ul>
+
+<h2>Top Itineraries</h2>  
+
+<ul>
+<li>Around the World - Cultures, Nature and Metropolises</li>
+
+</ul>
+
+<figure>
+
+<a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZ9P8fe_m9MNRbCEoFDDjcxrGqBUOhRsVHg&s" alt="A woman in a car"></a>
+
+<figcaption>A woman in a car</figcaption>
+
+
+</figure>
+
+
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwgWfcaoIGVUL2TG1TJhN0iuzVdwzEnZQ8G5tr6_zZAtbfIceL59G-Fo9KBnm2NLWXP0&usqp=CAU" alt="Image of the sunset behind Christ the Redeemer - Rio de Janeiro"></a>
+
+<figcaption>Sunset behind Christ the Redeemer - Rio de Janeiro</figcaption>
+
+
+</figure>
+
+</body>
+</html>
+
+
+** end of index.html **
+
