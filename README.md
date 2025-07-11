@@ -17,7 +17,7 @@ Este repositório é uma coleção de projetos feitos com **HTML**, a partir do 
   Páginas mais completas como landing pages, páginas de login, estruturas reutilizáveis, etc. Tudo ainda em HTML puro.
 
 
-### 🎯 Desenvolvimento Futuro 
+## 🎯 Desenvolvimento Futuro 
 
 **Planos para a evolução deste projeto incluem:**
 
