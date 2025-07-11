@@ -11,7 +11,7 @@ Este repositório é uma coleção de projetos feitos com **HTML**, a partir do 
   Tabelas, formulários simples, uso de 'divs' e elementos de organização.
 
 - **Etapa 3 - HTML Semântico e Acessibilidade**  
-  Uso correto de tags como , além de boas práticas de acessibilidade.
+ Uso correto de tags como `<header>`, `<main>`, `<section>`, `<footer>`. Além de aplicação de práticas de acessibilidade, como o uso de atributos alt em imagens e `<label>` associados a campos de formulário, visando a usabilidade para diversos usuários.
 
 - **Etapa 4 - Projetos Avançados em HTML**  
   Páginas mais completas como landing pages, páginas de login, estruturas reutilizáveis, etc. Tudo ainda em HTML puro.
@@ -19,14 +19,17 @@ Este repositório é uma coleção de projetos feitos com **HTML**, a partir do 
 
 ### 🎯 Desenvolvimento Futuro 
 
-*Planos para a evolução deste projeto incluem:*
+**Planos para a evolução deste projeto incluem:**
 
-Aprimoramento da estilização com CSS avançado para um design mais sofisticado
+- Aprimoramento da estilização com CSS avançado para um design mais sofisticado
 
-Integração de funcionalidades interativas utilizando JavaScript
+- Integração de funcionalidades interativas utilizando JavaScript
 
-Otimização para responsividade completa, garantindo compatibilidade com diversos dispositivos
+- Otimização para responsividade completa, garantindo compatibilidade com diversos dispositivos
 
-Expansão das práticas de acessibilidade para conformidade com padrões mais rigorosos
+- Expansão das práticas de acessibilidade para conformidade com padrões mais rigorosos
+
+
+
 
 
