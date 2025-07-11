@@ -1,5 +1,3 @@
-﻿# projetohtml-1
-
 # 🚀 Projeto HTML - Do Básico ao Avançado
 
 Este repositório é uma coleção de projetos feitos com **HTML**, a partir do curso FullStack Developer disponível na plataforma **Freecodecamp.org**,organizados em níveis de complexidade. A ideia é mostrar a evolução do uso do HTML — desde uma simples estrutura de página até páginas mais completas com formulários, tabelas, elementos semânticos e integração com CSS/JS no futuro.
