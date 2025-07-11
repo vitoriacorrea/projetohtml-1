@@ -21,15 +21,14 @@ Este repositório é uma coleção de projetos feitos com **HTML**, a partir do 
 
 ### 🎯 Desenvolvimento Futuro 
 
-Planos para a evolução deste projeto incluem:
+*Planos para a evolução deste projeto incluem:*
 
-Aprimoramento da estilização com CSS avançado para um design mais sofisticado.
+Aprimoramento da estilização com CSS avançado para um design mais sofisticado
 
-Integração de funcionalidades interativas utilizando JavaScript.
+Integração de funcionalidades interativas utilizando JavaScript
 
-Otimização para responsividade completa, garantindo compatibilidade com diversos dispositivos.
+Otimização para responsividade completa, garantindo compatibilidade com diversos dispositivos
 
-Expansão das práticas de acessibilidade para conformidade com padrões mais rigorosos.
-
+Expansão das práticas de acessibilidade para conformidade com padrões mais rigorosos
 
 
